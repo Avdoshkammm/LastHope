@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v8.0": {
       "LastHope.Web/1.0.0": {
         "dependencies": {
+          "LastHope.Application": "1.0.0",
+          "LastHope.Domain": "1.0.0",
           "LastHope.Infrastructure": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.10",
           "Microsoft.EntityFrameworkCore.Design": "8.0.10",
@@ -17,6 +19,17 @@
         },
         "runtime": {
           "LastHope.Web.dll": {}
+        }
+      },
+      "AutoMapper/13.0.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Options": "8.0.2"
+        },
+        "runtime": {
+          "lib/net6.0/AutoMapper.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.0"
+          }
         }
       },
       "Azure.Core/1.35.0": {
@@ -1903,6 +1916,18 @@
           }
         }
       },
+      "LastHope.Application/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "13.0.1",
+          "LastHope.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LastHope.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "LastHope.Domain/1.0.0": {
         "runtime": {
           "LastHope.Domain.dll": {
@@ -1931,6 +1956,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AutoMapper/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
+      "path": "automapper/13.0.1",
+      "hashPath": "automapper.13.0.1.nupkg.sha512"
     },
     "Azure.Core/1.35.0": {
       "type": "package",
@@ -3044,6 +3076,11 @@
       "sha512": "sha512-bR4qdCmssMMbo9Fatci49An5B1UaVJZHKNq70PRgzoLYIlitb8Tj7ns/Xt5Pz1CkERiTjcVBDU2y1AVrPBYkaw==",
       "path": "system.windows.extensions/7.0.0",
       "hashPath": "system.windows.extensions.7.0.0.nupkg.sha512"
+    },
+    "LastHope.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "LastHope.Domain/1.0.0": {
       "type": "project",

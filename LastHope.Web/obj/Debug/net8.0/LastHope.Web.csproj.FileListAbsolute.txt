@@ -261,3 +261,6 @@ C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Web\obj\Debug\net8.0\refint\
 C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Web\obj\Debug\net8.0\LastHope.Web.pdb
 C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Web\obj\Debug\net8.0\LastHope.Web.genruntimeconfig.cache
 C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Web\obj\Debug\net8.0\ref\LastHope.Web.dll
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Web\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Web\bin\Debug\net8.0\LastHope.Application.dll
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Web\bin\Debug\net8.0\LastHope.Application.pdb

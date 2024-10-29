@@ -86,7 +86,7 @@ namespace LastHope.Web.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Description,Cost")] ProductDTO productdto)
+        public async Task<IActionResult> Edit(int id, [Bind("ID,Name,Description,Cost")] ProductDTO productdto)
         {
             if (id != productdto.ID)
             {
