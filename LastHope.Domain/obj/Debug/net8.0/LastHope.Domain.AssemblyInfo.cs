@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LastHope.Web")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LastHope.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f6cf44f5db8b19d53e21ba14f401ab47cefab31")]
-[assembly: System.Reflection.AssemblyProductAttribute("LastHope.Web")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LastHope.Web")]
+[assembly: System.Reflection.AssemblyProductAttribute("LastHope.Domain")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LastHope.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
