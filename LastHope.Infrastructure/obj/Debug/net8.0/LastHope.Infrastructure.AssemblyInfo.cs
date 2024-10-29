@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LastHope.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71ba41e9249683dc1729b8d1f42acb1b2334d30d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4263aa2802e276e01cca56d0f500baea87186f24")]
 [assembly: System.Reflection.AssemblyProductAttribute("LastHope.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LastHope.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

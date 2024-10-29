@@ -986,6 +986,16 @@
             "rid": "win"
           }
         }
+      },
+      "LastHope.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LastHope.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LastHope.Domain.dll": {}
+        }
       }
     }
   },
@@ -2740,10 +2750,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "LastHope.Domain/1.0.0": {
+      "type": "project",
+      "path": "../LastHope.Domain/LastHope.Domain.csproj",
+      "msbuildProject": "../LastHope.Domain/LastHope.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "LastHope.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.10"
     ]
@@ -2775,7 +2791,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Domain\\LastHope.Domain.csproj": {
+              "projectPath": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Domain\\LastHope.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

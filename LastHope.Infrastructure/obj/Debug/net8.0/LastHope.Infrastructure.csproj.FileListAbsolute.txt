@@ -1,0 +1,16 @@
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Infrastructure\bin\Debug\net8.0\LastHope.Infrastructure.deps.json
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Infrastructure\bin\Debug\net8.0\LastHope.Infrastructure.dll
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Infrastructure\bin\Debug\net8.0\LastHope.Infrastructure.pdb
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Infrastructure\bin\Debug\net8.0\LastHope.Domain.dll
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Infrastructure\bin\Debug\net8.0\LastHope.Domain.pdb
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Infrastructure\obj\Debug\net8.0\LastHope.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Infrastructure\obj\Debug\net8.0\LastHope.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Infrastructure\obj\Debug\net8.0\LastHope.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Infrastructure\obj\Debug\net8.0\LastHope.Infrastructure.AssemblyInfo.cs
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Infrastructure\obj\Debug\net8.0\LastHope.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Infrastructure\obj\Debug\net8.0\LastHope.Infrastructure.sourcelink.json
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Infrastructure\obj\Debug\net8.0\LastHope.25BA2F49.Up2Date
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Infrastructure\obj\Debug\net8.0\LastHope.Infrastructure.dll
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Infrastructure\obj\Debug\net8.0\refint\LastHope.Infrastructure.dll
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Infrastructure\obj\Debug\net8.0\LastHope.Infrastructure.pdb
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Infrastructure\obj\Debug\net8.0\ref\LastHope.Infrastructure.dll

@@ -1,0 +1,12 @@
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Domain\bin\Debug\net8.0\LastHope.Domain.deps.json
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Domain\bin\Debug\net8.0\LastHope.Domain.dll
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Domain\bin\Debug\net8.0\LastHope.Domain.pdb
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Domain\obj\Debug\net8.0\LastHope.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Domain\obj\Debug\net8.0\LastHope.Domain.AssemblyInfoInputs.cache
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Domain\obj\Debug\net8.0\LastHope.Domain.AssemblyInfo.cs
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Domain\obj\Debug\net8.0\LastHope.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Domain\obj\Debug\net8.0\LastHope.Domain.sourcelink.json
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Domain\obj\Debug\net8.0\LastHope.Domain.dll
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Domain\obj\Debug\net8.0\refint\LastHope.Domain.dll
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Domain\obj\Debug\net8.0\LastHope.Domain.pdb
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Domain\obj\Debug\net8.0\ref\LastHope.Domain.dll

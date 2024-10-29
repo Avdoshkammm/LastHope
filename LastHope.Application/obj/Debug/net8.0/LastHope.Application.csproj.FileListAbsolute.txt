@@ -1,0 +1,13 @@
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\bin\Debug\net8.0\LastHope.Application.deps.json
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\bin\Debug\net8.0\LastHope.Application.dll
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\bin\Debug\net8.0\LastHope.Application.pdb
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\obj\Debug\net8.0\LastHope.Application.csproj.AssemblyReference.cache
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\obj\Debug\net8.0\LastHope.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\obj\Debug\net8.0\LastHope.Application.AssemblyInfoInputs.cache
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\obj\Debug\net8.0\LastHope.Application.AssemblyInfo.cs
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\obj\Debug\net8.0\LastHope.Application.csproj.CoreCompileInputs.cache
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\obj\Debug\net8.0\LastHope.Application.sourcelink.json
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\obj\Debug\net8.0\LastHope.Application.dll
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\obj\Debug\net8.0\refint\LastHope.Application.dll
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\obj\Debug\net8.0\LastHope.Application.pdb
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\obj\Debug\net8.0\ref\LastHope.Application.dll
