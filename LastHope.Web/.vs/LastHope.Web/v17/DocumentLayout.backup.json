@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\lasthope\\lasthope.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\lasthope\\lasthope.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\lasthope\\lasthope.web\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\lasthope\\lasthope.web\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\lasthope\\lasthope.web\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,24 +27,8 @@
       "RelativeMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\lasthope\\lasthope.web\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\lasthope\\lasthope.web\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\lasthope\\lasthope.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\lasthope\\lasthope.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|c:\\users\\avdoshkammm\\source\\repos\\lasthope\\lasthope.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54A5EF0A-E6E0-49B1-9968-4BF237CE69F7}|LastHope.Web.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED8D55A7-C1CC-47F3-A163-22F232F6181D}|..\\LastHope.Application\\LastHope.Application.csproj|c:\\users\\avdoshkammm\\source\\repos\\lasthope\\lasthope.application\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -41,76 +41,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 436,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
               "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-29T10:46:57.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\Views\\Product\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
               "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\Views\\Product\\Delete.cshtml",
               "RelativeToolTip": "Views\\Product\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-29T10:46:53.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
               "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\Views\\Product\\Details.cshtml",
               "RelativeToolTip": "Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-29T10:46:49.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
               "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\Views\\Product\\Edit.cshtml",
               "RelativeToolTip": "Views\\Product\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-29T10:46:39.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-29T10:46:20.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -118,20 +118,20 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T10:42:30.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T10:42:30.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T10:35:17.31Z"
+              "WhenOpened": "2024-10-29T10:35:17.31Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

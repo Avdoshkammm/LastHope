@@ -11,3 +11,6 @@ C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\obj\Debug\net8.0
 C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\obj\Debug\net8.0\refint\LastHope.Application.dll
 C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\obj\Debug\net8.0\LastHope.Application.pdb
 C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\obj\Debug\net8.0\ref\LastHope.Application.dll
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\bin\Debug\net8.0\LastHope.Domain.dll
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\bin\Debug\net8.0\LastHope.Domain.pdb
+C:\Users\AvdoshkaMMM\source\repos\LastHope\LastHope.Application\obj\Debug\net8.0\LastHope.2B043F91.Up2Date
