@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "AutoMapper/13.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Azure.Core/1.35.0": {
         "type": "package",
         "dependencies": {
@@ -2742,6 +2758,20 @@
           }
         }
       },
+      "LastHope.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AutoMapper": "13.0.1",
+          "LastHope.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LastHope.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LastHope.Application.dll": {}
+        }
+      },
       "LastHope.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -2770,6 +2800,21 @@
     }
   },
   "libraries": {
+    "AutoMapper/13.0.1": {
+      "sha512": "/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
+      "type": "package",
+      "path": "automapper/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.13.0.1.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/net6.0/AutoMapper.dll",
+        "lib/net6.0/AutoMapper.xml"
+      ]
+    },
     "Azure.Core/1.35.0": {
       "sha512": "hENcx03Jyuqv05F4RBEPbxz29UrM3Nbhnr6Wl6NQpoU9BCIbL3XLentrxDCTrH54NLS11Exxi/o8MYgT/cnKFA==",
       "type": "package",
@@ -7730,6 +7775,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "LastHope.Application/1.0.0": {
+      "type": "project",
+      "path": "../LastHope.Application/LastHope.Application.csproj",
+      "msbuildProject": "../LastHope.Application/LastHope.Application.csproj"
+    },
     "LastHope.Domain/1.0.0": {
       "type": "project",
       "path": "../LastHope.Domain/LastHope.Domain.csproj",
@@ -7743,6 +7793,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "LastHope.Application >= 1.0.0",
+      "LastHope.Domain >= 1.0.0",
       "LastHope.Infrastructure >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.10",
@@ -7779,6 +7831,12 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Application\\LastHope.Application.csproj": {
+              "projectPath": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Application\\LastHope.Application.csproj"
+            },
+            "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Domain\\LastHope.Domain.csproj": {
+              "projectPath": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Domain\\LastHope.Domain.csproj"
+            },
             "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Infrastructure\\LastHope.Infrastructure.csproj": {
               "projectPath": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Infrastructure\\LastHope.Infrastructure.csproj"
             }
