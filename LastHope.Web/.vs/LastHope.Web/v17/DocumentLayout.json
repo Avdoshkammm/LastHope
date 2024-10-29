@@ -1,12 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8D55A7-C1CC-47F3-A163-22F232F6181D}|..\\LastHope.Application\\LastHope.Application.csproj|c:\\users\\avdoshkammm\\source\\repos\\lasthope\\lasthope.application\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 436,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Application\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\LastHope.Application\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Application\\Service\\ProductService.cs",
+              "RelativeToolTip": "..\\LastHope.Application\\Service\\ProductService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:26:06.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
