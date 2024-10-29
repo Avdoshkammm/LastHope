@@ -19,6 +19,7 @@ namespace LastHope.Application.Service
         public ProductService(GenericInterface<Product> _iproduct, IMapper _mapper)
         {
             iproduct = _iproduct;
+            mapper = _mapper;
         }
         public async Task<IEnumerable<ProductDTO>> GetProductsAsync()
         {
