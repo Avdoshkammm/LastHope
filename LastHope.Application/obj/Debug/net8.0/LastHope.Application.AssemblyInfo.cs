@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LastHope.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4263aa2802e276e01cca56d0f500baea87186f24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63171579a7ff0a53be518da358ea7b1472f3b874")]
 [assembly: System.Reflection.AssemblyProductAttribute("LastHope.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LastHope.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
