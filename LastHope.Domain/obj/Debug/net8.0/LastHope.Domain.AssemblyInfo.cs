@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LastHope.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4263aa2802e276e01cca56d0f500baea87186f24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac5d1abfb35ef8ff9210646966e005005baa91a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("LastHope.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LastHope.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

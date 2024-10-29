@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{15589165-E117-4AE2-9784-801C531C3746}|..\\LastHope.Domain\\LastHope.Domain.csproj|c:\\users\\avdoshkammm\\source\\repos\\lasthope\\lasthope.domain\\interfaces\\genericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F22C656-8014-4178-B2BD-996562F039E9}|..\\LastHope.Infrastructure\\LastHope.Infrastructure.csproj|c:\\users\\avdoshkammm\\source\\repos\\lasthope\\lasthope.infrastructure\\migrations\\20241029100655_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GenericInterface.cs",
+              "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Domain\\Interfaces\\GenericInterface.cs",
+              "RelativeDocumentMoniker": "..\\LastHope.Domain\\Interfaces\\GenericInterface.cs",
+              "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Domain\\Interfaces\\GenericInterface.cs",
+              "RelativeToolTip": "..\\LastHope.Domain\\Interfaces\\GenericInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:10:39.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "20241029100655_Initial.cs",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Infrastructure\\Migrations\\20241029100655_Initial.cs",
               "RelativeDocumentMoniker": "..\\LastHope.Infrastructure\\Migrations\\20241029100655_Initial.cs",
               "ToolTip": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Infrastructure\\Migrations\\20241029100655_Initial.cs",
               "RelativeToolTip": "..\\LastHope.Infrastructure\\Migrations\\20241029100655_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T10:06:56.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -52,12 +68,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T10:05:29.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T10:05:29.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Web\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -65,12 +80,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-29T10:05:06.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T10:05:06.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "..\\LastHope.Domain\\Entities\\Product.cs",
@@ -78,12 +92,11 @@
               "RelativeToolTip": "..\\LastHope.Domain\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T10:03:58.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T10:03:58.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LastHopeDBContext.cs",
               "DocumentMoniker": "C:\\Users\\AvdoshkaMMM\\source\\repos\\LastHope\\LastHope.Infrastructure\\Data\\LastHopeDBContext.cs",
               "RelativeDocumentMoniker": "..\\LastHope.Infrastructure\\Data\\LastHopeDBContext.cs",
@@ -91,8 +104,7 @@
               "RelativeToolTip": "..\\LastHope.Infrastructure\\Data\\LastHopeDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T10:02:47.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T10:02:47.534Z"
             }
           ]
         }
